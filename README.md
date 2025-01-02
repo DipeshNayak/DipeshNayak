@@ -1,7 +1,6 @@
-- I’m DipeshNayak
+- I’m Dipesh Nayak
 - 3 Years Experience
-- 17 Years Old
-- Spamer
+- 19 Years Old
 - Hacker
 
 <!---
